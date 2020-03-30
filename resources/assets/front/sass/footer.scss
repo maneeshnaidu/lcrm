@@ -1,0 +1,63 @@
+/*This is Footer CSS*/
+.footer
+{
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.footer {
+  .footer-text:hover
+  {
+    color:#0362bf !important;
+    cursor: pointer;
+  }
+
+  }
+
+
+   .footercolor
+  {
+    background-color: #1e2b37;
+  }
+  footer .m_top
+  {
+    padding:68px 12px 68px 10px;
+  }
+
+  .textcolor,.icon_textcolor{
+    color:#bbc7cd;
+    cursor: pointer;
+  }
+  footer .textcolor:hover
+  {
+    color:#8799a3;
+  }
+.text-fontsize
+{
+  font-size: 16px;
+}
+  .bodysection a
+  {
+    text-decoration: none;
+  }
+  .menuicon
+  {
+    z-index:99;
+  }
+  footer .textcolor1:hover
+  {
+    color:#bbc7cd;
+    cursor: pointer;
+  }
+  .footer_icons{
+    padding:50px 10px;
+  }
+  .footer_icons_margin{
+    margin-bottom :2rem;
+  }
+  .footer_minus{
+    margin-left :-2px;
+  }
+.footer .icons .fa:hover {
+  transform: rotate(360deg);
+  transition: ease 1s;
+}
